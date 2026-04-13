@@ -12,3 +12,6 @@
 - Region-wise performance
 - Yearly sales trend
 - Customer segmentation# superstore-sql-project
+
+# This project uses the Sample Superstore dataset from Kaggle.
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
